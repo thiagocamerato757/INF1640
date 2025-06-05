@@ -184,7 +184,7 @@ void generate_report(int message, uint8_t crc_modulo, uint8_t crc_lfsr, const ch
         "<div class='section'>"
         "<h2>4) Código-Fonte</h2>"
         "<p>O código-fonte completo deste relatório está disponível no GitHub:</p>"
-        "<p><a href='https://github.com/seuusuario/repositorio-crc' target='_blank'>github.com/seuusuario/repositorio-crc</a></p>"
+        "<p><a href='https://github.com/thiagocamerato757/INF1640.git' target='_blank'>https://github.com/thiagocamerato757/INF1640.git</a></p>"
         "</div>"
     );
 

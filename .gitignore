@@ -51,3 +51,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# HTML files
+*.html
+
+# PDF files
+*.pdf
+
+# Unix executables (no extension)
+*
+!*/
+!*.*
